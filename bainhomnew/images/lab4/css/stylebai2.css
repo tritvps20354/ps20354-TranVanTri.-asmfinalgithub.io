@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+
+}
+h2{
+    color: white;
+    text-shadow: 0 0 5px red;
+}
+em{
+    font-variant: small-caps;
+    font-size: 20px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    line-height: 25px;
+    
+}
+.menu{
+    font-variant: small-caps;
+    text-align: center;
+    font-size: 25px;
+}
+.menu>a{
+    color: blue;
+    text-decoration: none;
+}
+/* .menu>a:visited{
+    color: green;
+} */
+.menu>a:hover{
+    color: red;
+    text-decoration: underline;
+}
